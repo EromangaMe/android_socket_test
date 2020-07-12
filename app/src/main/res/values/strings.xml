@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">socket</string>
+    <string name="host">host</string>
+    <string name="port">port</string>
+    <string name="name">name</string>
+    <string name="connect">connect</string>
+</resources>
